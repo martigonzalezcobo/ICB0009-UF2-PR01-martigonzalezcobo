@@ -37,4 +37,4 @@ En esta tarea, se introduce un **nivel de prioridad** para los pacientes al lleg
 
 ---
 
-![Captura de pantalla 2025-03-29 212035](https://github.com/user-attachments/assets/394e15fd-0349-4dd8-ade9-e877223daa0b)
+![Captura de pantalla 2025-03-29 212300](https://github.com/user-attachments/assets/c8875ebc-4d92-49a0-a0eb-32e08fb7d523)
