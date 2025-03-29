@@ -40,3 +40,4 @@ Uso promedio de máquinas de diagnóstico: 75%
 
 ---
 
+![Captura de pantalla 2025-03-29 212359](https://github.com/user-attachments/assets/3336a93c-086e-4229-943d-a149875438f4)
