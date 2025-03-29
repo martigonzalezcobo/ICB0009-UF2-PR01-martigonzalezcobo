@@ -46,8 +46,8 @@ public class Paciente
 ### ¿Cuál de los pacientes sale primero de consulta? Explica tu respuesta.
 
 **Respuesta:**
-![ejercicio1tarea2](https://github.com/user-attachments/assets/1e5e01b6-4906-4e7e-ac9d-1f89385dc075)
 
 > Debido a la asignación aleatoria de tiempos de consulta y tiempos de llegada, el paciente que termine primero será aquel cuya **suma de llegada + tiempo de consulta** sea la menor.
 
 ---
+![ejercicio1tarea2](https://github.com/user-attachments/assets/1e5e01b6-4906-4e7e-ac9d-1f89385dc075)
