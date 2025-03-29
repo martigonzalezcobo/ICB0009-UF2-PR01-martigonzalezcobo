@@ -1,0 +1,15 @@
+C:\Users\marti\OneDrive\Escritorio\cosas\Cosas randomn\asdsasd\m09\ICB0009-UF2-PR01-martigonzalezcobo\Ejercicio1\Tarea2\bin\Debug\net8.0\Tarea2.exe
+C:\Users\marti\OneDrive\Escritorio\cosas\Cosas randomn\asdsasd\m09\ICB0009-UF2-PR01-martigonzalezcobo\Ejercicio1\Tarea2\bin\Debug\net8.0\Tarea2.deps.json
+C:\Users\marti\OneDrive\Escritorio\cosas\Cosas randomn\asdsasd\m09\ICB0009-UF2-PR01-martigonzalezcobo\Ejercicio1\Tarea2\bin\Debug\net8.0\Tarea2.runtimeconfig.json
+C:\Users\marti\OneDrive\Escritorio\cosas\Cosas randomn\asdsasd\m09\ICB0009-UF2-PR01-martigonzalezcobo\Ejercicio1\Tarea2\bin\Debug\net8.0\Tarea2.dll
+C:\Users\marti\OneDrive\Escritorio\cosas\Cosas randomn\asdsasd\m09\ICB0009-UF2-PR01-martigonzalezcobo\Ejercicio1\Tarea2\bin\Debug\net8.0\Tarea2.pdb
+C:\Users\marti\OneDrive\Escritorio\cosas\Cosas randomn\asdsasd\m09\ICB0009-UF2-PR01-martigonzalezcobo\Ejercicio1\Tarea2\obj\Debug\net8.0\Tarea2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Escritorio\cosas\Cosas randomn\asdsasd\m09\ICB0009-UF2-PR01-martigonzalezcobo\Ejercicio1\Tarea2\obj\Debug\net8.0\Tarea2.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Escritorio\cosas\Cosas randomn\asdsasd\m09\ICB0009-UF2-PR01-martigonzalezcobo\Ejercicio1\Tarea2\obj\Debug\net8.0\Tarea2.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Escritorio\cosas\Cosas randomn\asdsasd\m09\ICB0009-UF2-PR01-martigonzalezcobo\Ejercicio1\Tarea2\obj\Debug\net8.0\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Escritorio\cosas\Cosas randomn\asdsasd\m09\ICB0009-UF2-PR01-martigonzalezcobo\Ejercicio1\Tarea2\obj\Debug\net8.0\Tarea2.sourcelink.json
+C:\Users\marti\OneDrive\Escritorio\cosas\Cosas randomn\asdsasd\m09\ICB0009-UF2-PR01-martigonzalezcobo\Ejercicio1\Tarea2\obj\Debug\net8.0\Tarea2.dll
+C:\Users\marti\OneDrive\Escritorio\cosas\Cosas randomn\asdsasd\m09\ICB0009-UF2-PR01-martigonzalezcobo\Ejercicio1\Tarea2\obj\Debug\net8.0\refint\Tarea2.dll
+C:\Users\marti\OneDrive\Escritorio\cosas\Cosas randomn\asdsasd\m09\ICB0009-UF2-PR01-martigonzalezcobo\Ejercicio1\Tarea2\obj\Debug\net8.0\Tarea2.pdb
+C:\Users\marti\OneDrive\Escritorio\cosas\Cosas randomn\asdsasd\m09\ICB0009-UF2-PR01-martigonzalezcobo\Ejercicio1\Tarea2\obj\Debug\net8.0\Tarea2.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Escritorio\cosas\Cosas randomn\asdsasd\m09\ICB0009-UF2-PR01-martigonzalezcobo\Ejercicio1\Tarea2\obj\Debug\net8.0\ref\Tarea2.dll
