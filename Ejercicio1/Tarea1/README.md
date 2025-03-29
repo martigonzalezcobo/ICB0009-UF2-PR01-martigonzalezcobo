@@ -30,3 +30,4 @@ Cada vez que llega un paciente se mostrará un mensaje por pantalla junto al nú
 > El primer paciente que entre en consulta será el primero en salir ya que todos tienen el mismo tiempo de consulta (10 segundos).
 
 ---
+![ejercicio1tarea1](https://github.com/user-attachments/assets/23b5bbd3-c274-462d-a10e-5e00572d02ce)
